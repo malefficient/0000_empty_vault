@@ -1,0 +1,3 @@
+# Deliberate choice: Do not sync changes to our default workspace
+./.obsidian/workspace.json
+
